@@ -50,8 +50,9 @@ DoS 攻擊（DoS attack）:DDoS攻擊利用多個被破壞的電腦系統作為�
 
 網路附接儲存體（network attached storage, NAS）: 是一種連接您家中或辦公室網路的智慧儲存裝置。您可以將家人或同事的重要文件、珍貴的相片、影音收藏等檔案儲存於 NAS，僅需透過網頁瀏覽器或手機應用程式，即可輕鬆存取檔案並享有 NAS 提供的豐富服務。
 
-加密（encryption）:加密，是以某種特殊的算法改變原有的信息數據，使得未授權的用戶即使獲得了已加密的信息
-
+加密（encryption）:1.加密，是以某種特殊的算法改變原有的信息數據，使得未授權的用戶即使獲得了已加密的信息
+                  2.沒有金鑰無法解開密文
+                  3.明文轉換成無辨識的密文
 網路標準（network standard）:是指關於網際網路相關的技術與方法論的技術規範
 
 期中考範例題目[數位通訊][教科書第11章360-396:重要名詞與觀念]
@@ -92,10 +93,17 @@ VoIP（互聯網協議語音）:透過互聯網的語音通話
 原文網址：https://kknews.cc/tech/bozqx8m.html
 
 群眾集資（crowdfunding） ==> http://iiic.niu.edu.tw/actnews/intro.php?Sn=13&OSn=42:
+1.提供一個創作計畫資金
+2.INTERNET提供資金支持他人
+3.crowd funding
 
-科技上癮（technology addiction）:
+科技上癮（technology addiction）:1.對科技過度沉迷
+                                2.沒使用科技產品就會產生焦慮
+                                3.科技上癮會影響人們的身體健康
 
-科技過載（technology overload）:
+科技過載（technology overload）:1.資訊更新過快
+                               2.處理過多的資訊量而感到痛苦
+                               3.technology overload
 
 網路霸凌（cyberbullying）:
 
