@@ -72,16 +72,24 @@ VoIP（互聯網協議語音）:透過互聯網的語音通話
 
 現場部落格（live blog）:一種線上日記型式的個人網站，藉由張貼文章、圖片或影片來記錄生活、抒發情感或分享資訊
 
-媒體分享網路（media-sharing network）:
+媒體分享網路（media-sharing network）:1.英文名稱:media-sharing network
+                                    2.例如:instagram
+                                    3.使用者觀看不同類型的內容資訊
+                                    
+消費者評價網路（consumer review network）:1.買家在對方的網路平台留下評價
+                                        2.能夠依據網路上的評分挑選產品
 
-消費者評價網路（consumer review network）:
+討論區網路（discussion forum network:)1.簡稱為論壇，又稱討論區、討論版等
+                                     2.是種提供線上討論的程式
+                                     3.討論題材有很多，例如：娛樂、新聞、教育、旅遊、休閒等等
 
-討論區網路（discussion forum network:
+社群書籤（social bookmarking）:1.英文是social bookmarking
+                              2.使用者標記以後還想要再來的網站
+                              3.使用者可以通過它來收集，分類，聚合感興趣的網路資訊，如新聞，圖片，資料，網站等
 
-社群書籤（social bookmarking）:
-
-社群典藏（social curation）:
-
+社群典藏（social curation）:1.英文名稱:social curation
+                           2.典藏則是將自己不想公開的內容給隱藏
+                           3.如DIGG
 群眾外包（crowdsourcing） vs 外包(outsourcing）群眾外包::1.用來描述一種新的商業模式，即企業利用網際網路來將工作分配出去
                                               2.發現創意或解決技術問題
                                               3.群眾外包是由一群非特定人士所組成的志願者
@@ -105,9 +113,11 @@ VoIP（互聯網協議語音）:透過互聯網的語音通話
                                2.處理過多的資訊量而感到痛苦
                                3.technology overload
 
-網路霸凌（cyberbullying）:
+網路霸凌（cyberbullying）:1.對網民使用言語暴力
+                         2.羞辱對方外貌
+                         3.上船他人不雅照片
 
-網路跟蹤（cyberstalking）:
+網路跟蹤（cyberstalking）:1.利用社群軟體監視他人
 
 謾罵論戰（flaming）
 
@@ -139,4 +149,32 @@ appliation software(應用軟體):1.指為針對使用者的某種特殊應用�
 記憶體階層(memory hierarchy)v(必考題)1.電腦架構下儲存系統階層的排列順序。 每一層於下一層相比都擁有較高的速度和較低延遲性
                                    2.記憶體階層總共分四個階層，1.暫存器/2.快取/3.主記憶體(DRAM)/4.硬碟存取
                                    3.記憶體階層是在電腦架構下儲存系統的排列順序
-                                   
+
+
+第十章內容:
+集線器:半雙公，意思是同時只能做接收或傳送
+
+交換器:交換器只會傳資料到需要的位置
+
+路由器:路由器負責建立網路
+
+數據機:數據機轉換訊號為電子訊號和類比訊號
+
+區域網路LAN:即在有限的區域內將PC的網路連接起來
+
+廣域網路 WAN:廣域網路是區域網路的延伸
+
+個人區域網路:是指個人的連線
+
+internet:以TCP/IP連線
+
+intranet:基於TCP/IP協議
+
+extranet:是公司要與合作夥伴共享訊息時使用的系統
+
+第11章內容:
+數位通訊:1.只電腦傳送資料到另一台裝置
+
+podcasts:1.內容通常是演講、新聞
+
+
